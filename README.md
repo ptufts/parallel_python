@@ -14,7 +14,7 @@ This is a tutorial introducing parallel programming concepts and their implement
 ## Modules and tools
 
 - Language: Python 3.8
-- Modules: `pandas`, `numpy`, `multiprocessing`, `PIL` (for imamge processing), `mpi4py`, `matplotlib`, `cupy` (for GPU parallelism)
+- Modules: `pandas`, `numpy`, `multiprocessing`, `PIL` (for image processing), `mpi4py`, `matplotlib`, `cupy` (for GPU parallelism)
 - Jupyter notebook
 
 
